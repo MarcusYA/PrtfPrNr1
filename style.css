@@ -68,4 +68,53 @@ nav a:hover{
     width: 100%;
 }
 
+.imagcont {
+    background: black;
+    color: azure;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    
+}
+
+#img1 {
+    width: 400px;
+    
+    margin: auto;
+   
+    padding: 10px;
+    border-radius: 200px;
+}
+#img2 {
+    width: 400px;
+    
+    margin: auto;
+   
+    padding: 10px;
+    border-radius: 200px;
+}
+#img3 {
+    width: 400px;
+    
+    margin: auto;
+    
+    padding: 10px;
+    border-radius: 200px;
+}
+
+.fa-solid {
+    padding: 5px;
+}
+
+#section2 {
+    display: flex;
+    
+}
+
+.imagcont {
+    width: 100%;
+    justify-content: center;
+}
+
 /*Footer*/
