@@ -1,5 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     background-color: aqua;
 }
+
+/*Header*/
+
+.logo-image {
+    background-image: url(assets/images/the-activation-foundation-website-favicon-white.png);
+    width: 50px;
+    padding: 5px;
+}
+
+nav {
+    background-color: grey;
+    padding: 5px;
+    display: flex;
+}
+
+/*section*/
+
+
+/*Footer*/
