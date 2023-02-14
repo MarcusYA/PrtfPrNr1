@@ -129,3 +129,12 @@ footer {
 footer div {
     width: 100%;
 }
+.some a {
+    font-size: 200%;
+    color:blue;
+    padding: 30px;
+    }
+    
+    .some, .coninfo h1,h2 {
+        color: black;
+    }
