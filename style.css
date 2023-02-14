@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: grey;
+    background-color: black;
 }
 
 /*Header*/
@@ -133,8 +133,9 @@ footer div {
     font-size: 200%;
     color:blue;
     padding: 30px;
+    margin: 10px;
     }
     
     .some, .coninfo h1,h2 {
-        color: black;
+        color:rgb(127, 187, 140);
     }
