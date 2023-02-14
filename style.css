@@ -118,3 +118,14 @@ nav a:hover{
 }
 
 /*Footer*/
+footer {
+    background: rgb(127, 187, 140);
+    color:white;
+    padding: 20px;
+    display: flex;
+
+}
+
+footer div {
+    width: 100%;
+}
